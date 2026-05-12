@@ -1,0 +1,18 @@
+# Claude Code local settings (per-user permissions)
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# iCloud Drive temporary
+.icloud
+.Trash-*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
